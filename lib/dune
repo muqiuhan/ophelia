@@ -1,0 +1,5 @@
+(library
+ (name ophelia_lib)
+ (flags (:standard (-w -33)))
+ (libraries core)
+ (preprocess (pps ppx_deriving.show)))

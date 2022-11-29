@@ -1,4 +1,0 @@
-(executable
- (public_name ophelia)
- (name Ophelia)
- (libraries ophelia_lib))
